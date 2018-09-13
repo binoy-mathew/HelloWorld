@@ -3,4 +3,3 @@ Line 2 in Master
 Line 3 in Dev
 Line 4 in Master
 Line 5 in Dev
-Line 6 added in Dev before revert in master
